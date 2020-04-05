@@ -20,7 +20,7 @@ However, every job with a shared title isn't the same. With this in mind, a seco
 
 The strongest guarantee of earning a higher income is to work with an employer designated for Financial Work (Accounting or Payroll).
 
-Some employers, such as the Police Department, are able to compensate up to $93,500.00 to their Accountants. However, the chances of earning this amount within this division are slim. 
+Some employers, such as the Police Department, are able to compensate up to $93,500.00 to their Accountants. However, the chances of earning this amount within this division (and others outside of those designated for Finances) are slim. 
 
 #### References
 
