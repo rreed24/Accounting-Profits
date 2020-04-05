@@ -6,7 +6,7 @@ What promotion does one need to earn their desired income? What type of employer
 
 Using data from Baltimore City Salary Data, Jobs were limited to the Accounting field. This data included both the Annual and Gross income for 2017-2018. 
 
-After running a cluster analysis on this data (see [Instructions](Accounting-Profits/Accounting_Profits.xlsx) for step-by-step explanation), unsurprisingly, as one climbs the Accounting ladder they should expect to earn more.
+After running a cluster analysis on this data (see [Instructions](https://github.com/rreed24/Accounting-Profits/blob/master/MP3_Cluster_Instructions.pdf) for step-by-step explanation), unsurprisingly, as one climbs the Accounting ladder they should expect to earn more.
 
 <img width="595" alt="Screen Shot 2020-04-04 at 8 46 51 PM" src="https://user-images.githubusercontent.com/61040654/78464960-8a51db80-76b5-11ea-80a2-4adb81e4aeae.png">
 
